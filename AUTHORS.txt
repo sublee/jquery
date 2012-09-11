@@ -54,7 +54,7 @@ Ralph Whitbeck <ralph.whitbeck@gmail.com>
 Carl Fürstenberg <azatoth@gmail.com>
 Jacob Wright <jacwright@gmail.com>
 J. Ryan Stinnett <jryans@gmail.com>
-Heungsub Lee <lee@heungsub.net>
+Heungsub Lee <h@subl.ee>
 Colin Snover <colin@alpha.zetafleet.com>
 Ryan W Tenney <ryan@10e.us>
 Ron Otten <r.j.g.otten@gmail.com>
